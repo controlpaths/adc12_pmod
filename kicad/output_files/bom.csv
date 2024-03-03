@@ -1,0 +1,12 @@
+#,Reference,Qty,Value,Footprint,DNP,JLCPCB Part #
+1,"C1, C4, C5",3,100n,Capacitor_SMD:C_0603_1608Metric,,
+2,"C2, C3",2,2n2,Capacitor_SMD:C_0603_1608Metric,,
+3,J1,1,Conn_01x06_Pin,Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Horizontal,,C2894948
+4,J2,1,Conn_01x04_Pin,Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Horizontal,,C7501292
+5,"R1, R2, R3",3,100,Resistor_SMD:R_0603_1608Metric,,
+6,"R4, R14",2,1k,Resistor_SMD:R_0603_1608Metric,,
+7,"R5, R15",2,6k8,Resistor_SMD:R_0603_1608Metric,,
+8,"R6, R8, R9, R10, R12, R13, R16, R17",8,10k,Resistor_SMD:R_0603_1608Metric,,
+9,"R7, R11",2,11k,Resistor_SMD:R_0603_1608Metric,,
+10,U1,1,ADC122Sxxx,Package_SO:VSSOP-8_3.0x3.0mm_P0.65mm,,C528639
+11,"U2, U3",2,TLV9062xD,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm,,C398355
